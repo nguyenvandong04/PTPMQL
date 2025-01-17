@@ -1,0 +1,15 @@
+D:\PTPMQL\Newapp\bin\Debug\net9.0\Newapp.exe
+D:\PTPMQL\Newapp\bin\Debug\net9.0\Newapp.deps.json
+D:\PTPMQL\Newapp\bin\Debug\net9.0\Newapp.runtimeconfig.json
+D:\PTPMQL\Newapp\bin\Debug\net9.0\Newapp.dll
+D:\PTPMQL\Newapp\bin\Debug\net9.0\Newapp.pdb
+D:\PTPMQL\Newapp\obj\Debug\net9.0\Newapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\PTPMQL\Newapp\obj\Debug\net9.0\Newapp.AssemblyInfoInputs.cache
+D:\PTPMQL\Newapp\obj\Debug\net9.0\Newapp.AssemblyInfo.cs
+D:\PTPMQL\Newapp\obj\Debug\net9.0\Newapp.csproj.CoreCompileInputs.cache
+D:\PTPMQL\Newapp\obj\Debug\net9.0\Newapp.sourcelink.json
+D:\PTPMQL\Newapp\obj\Debug\net9.0\Newapp.dll
+D:\PTPMQL\Newapp\obj\Debug\net9.0\refint\Newapp.dll
+D:\PTPMQL\Newapp\obj\Debug\net9.0\Newapp.pdb
+D:\PTPMQL\Newapp\obj\Debug\net9.0\Newapp.genruntimeconfig.cache
+D:\PTPMQL\Newapp\obj\Debug\net9.0\ref\Newapp.dll
