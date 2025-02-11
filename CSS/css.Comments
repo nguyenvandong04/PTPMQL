@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+/* This is a single-line comment */
+p {
+  color: red;
+} 
+</style>
+</head>
+<body>
+
+<p>2121050324 Nguyễn Văn Đông</p>
+<p>2121050324 Nguyễn Văn Đông</p>
+<p>CSS comments are not shown in the output.</p>
+
+
+</body>
+</html>
