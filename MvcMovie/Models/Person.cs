@@ -22,6 +22,10 @@ namespace MvcMovie.Models
             Address = address;
         }
 
+        public Person()
+        {
+        }
+
         public void DisplayInfo()
         {
             Console.WriteLine($"PersonId: {PersonId}, FullName: {FullName}, Address: {Address}");
