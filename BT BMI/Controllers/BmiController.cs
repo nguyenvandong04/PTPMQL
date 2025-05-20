@@ -5,7 +5,7 @@ namespace BTBMI.Controllers
 {
     public class BmiController : Controller
     {
-        [HttpGet]
+
         public IActionResult Index()
         {
             return View();
